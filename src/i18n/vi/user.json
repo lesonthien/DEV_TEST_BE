@@ -1,0 +1,8 @@
+{
+  "EMAIL_ALREADY_EXIST": "Email đã tồn tại",
+  "PHONE_ALREADY_EXIST": "Số điện thoại đã tồn tại",
+  "USER_NOT_FOUND": "Người dùng không tồn tại",
+  "USER_BLOCKED": "Người dùng đã bị chặn",
+  "USERNAME_PASSWORD_INCORRECT": "Tên người dùng hoặc mật khẩu không chính xác",
+  "PASSWORD_WAS_WRONG": "Sai mật khẩu"
+}

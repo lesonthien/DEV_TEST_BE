@@ -1,0 +1,6 @@
+{
+  "VALIDATION_FAILED": "Validation failed",
+  "CART_ITEM_NOT_FOUND": "Cart item not found",
+  "CART_NOT_FOUND": "Cart with ID {cartId} not found",
+  "CART_USER_NOT_FOUND": "Cart of user ${name} not found"
+}

@@ -1,0 +1,6 @@
+{
+  "VALIDATION_FAILED": "Xác thực lỗi",
+  "CART_ITEM_NOT_FOUND": "mặt hàng giỏ hàng không tồn tại",
+  "CART_NOT_FOUND": "Giỏ hàng với ID {cartId} không tồn tại",
+  "CART_USER_NOT_FOUND": "Giỏ hàng của người dùng ${name} không tồn tại"
+}

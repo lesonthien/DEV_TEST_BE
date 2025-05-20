@@ -1,0 +1,9 @@
+{
+  "EMAIL_ALREADY_EXIST": "Email already exist",
+  "USERNAME_ALREADY_EXIST": "Username already exist",
+  "PHONE_ALREADY_EXIST": "Phone already exist",
+  "USER_NOT_FOUND": "User not found",
+  "USER_BLOCKED": "User has been blocked",
+  "USERNAME_PASSWORD_INCORRECT": "Username or password incorrect",
+  "PASSWORD_WAS_WRONG": "Password was wrong"
+}

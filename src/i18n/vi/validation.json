@@ -1,0 +1,10 @@
+{
+  "NOT_EMPTY": "{property} cannot be empty",
+  "INVALID_EMAIL": "email is invalid",
+  "INVALID_BOOLEAN": "{property} is not a boolean",
+  "MIN": "{property} with value: \"{value}\" needs to be at least {constraints.0}, ow and {message}",
+  "MAX": "{property} with value: \"{value}\" needs to be less than {constraints.0}, ow and {message}",
+  "IS_STRING": "{property} phải là chuỗi",
+  "IS_DATE": "{property} phải là ngày",
+  "IS_NUMBER": "{property} phải là số"
+}

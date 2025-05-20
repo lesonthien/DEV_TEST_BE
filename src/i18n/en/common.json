@@ -1,0 +1,4 @@
+{
+  "RECORD_NOT_FOUND": "Record not found",
+  "OPTIMISTIC_LOCKING_ERROR": "OptimisticLocking Error with version {version}"
+}

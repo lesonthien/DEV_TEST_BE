@@ -1,0 +1,10 @@
+{
+  "ITEM_NOT_FOUND": "Mục đơn hàng không tồn tại",
+  "ITEM_HAS_FAILED": "Mục đơn hàng đã thất bại",
+  "PACKAGE_NOT_FOUND": "Gói không tồn tại",
+  "CART_NOT_FOUND_OR_NOT_ITEM_IN_CART": "Giỏ hàng không tồn tại hoặc mục hàng không tồn tại trong giỏ hàng",
+  "AGENCY_DEBT_LIMIT_NOT_FOUND": "Giới hạn công nợ không tồn tại",
+  "LIMIT_NOT_ALLOW_PAYMENT": "Hạn mức của bạn không đủ để thực hiện thanh toán.",
+  "PAYMENT_ORDER_FAIL": "Thanh toán thàng công",
+  "PAYMENT_ORDER_SUCCESS": "Thanh toán thất bại"
+}

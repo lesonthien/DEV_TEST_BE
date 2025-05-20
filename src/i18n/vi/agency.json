@@ -1,0 +1,10 @@
+{
+  "AGENCY_INVALID_CODE": "Mã đại lý không hợp lệ",
+  "COMMISSION_INVALID": "Tỷ lệ hoa hồng không hợp lệ",
+  "AGENCY_HAS_ALREADY": "Đại lý đã tồn tại",
+  "CANNOT_FIND_PARENT_AGENCY": "Không thể tìm thấy đại lý cha",
+  "AGENCY_NOT_FOUND": "Không tìm thấy đại lý",
+  "DO_NOT_HAVE_PERMISSION": "Bạn không có quyền cập nhật",
+  "MISSING_CONFIG_COMMISSION_LEVEL": "Thiếu cấu hình cấp tỷ lệ hoa hồng",
+  "COMMISSION_INVALID_WITH": "Tỷ lệ hoa hồng không hợp lệ. Chỉ có thể nhập tỷ lệ nhờ hơn hoặc bằng {commission}"
+}

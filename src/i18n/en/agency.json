@@ -1,0 +1,10 @@
+{
+  "AGENCY_INVALID_CODE": "Agency code is invalid",
+  "COMMISSION_INVALID": "Commission Invalid",
+  "AGENCY_HAS_ALREADY": "Agency has already",
+  "CANNOT_FIND_PARENT_AGENCY": "Cannot find parent agency",
+  "AGENCY_NOT_FOUND": "Agency not found",
+  "DO_NOT_HAVE_PERMISSION": "You do not have permission to update",
+  "MISSING_CONFIG_COMMISSION_LEVEL": "Missing config commission level",
+  "COMMISSION_INVALID_WITH": "Commission invalid. Please enter commission less than or equal {commission}"
+}

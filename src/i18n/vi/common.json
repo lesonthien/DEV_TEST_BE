@@ -1,0 +1,4 @@
+{
+  "RECORD_NOT_FOUND": "Không tìm thấy dữ liệu",
+  "OPTIMISTIC_LOCKING_ERROR": "Dữ liệu lỗi với phiên bản {version}"
+}

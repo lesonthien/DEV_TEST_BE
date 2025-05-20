@@ -1,0 +1,10 @@
+{
+  "ITEM_NOT_FOUND": "Item order not found",
+  "ITEM_HAS_FAILED": "Item order has failed",
+  "PACKAGE_NOT_FOUND": "Package not found",
+  "CART_NOT_FOUND_OR_NOT_ITEM_IN_CART": "Cart not found or not item in cart",
+  "AGENCY_DEBT_LIMIT_NOT_FOUND": "Agency debt limit not found",
+  "LIMIT_NOT_ALLOW_PAYMENT": "Your limit is insufficient to make the payment.",
+  "PAYMENT_ORDER_FAIL": "Payment order fail",
+  "PAYMENT_ORDER_SUCCESS": "Payment order success"
+}
